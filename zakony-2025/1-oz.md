@@ -1,0 +1,8 @@
+# «О внесении изменений в Закон Чукотского автономного округа «Об окружном бюджете на 2025 год и на плановый период 2026 и 2027 годов»
+Document type: Закон
+Number: 1-ОЗ
+Date signed: 2025-03-10
+Publication date: 2025-03-11
+Publication number: 8700202503110002
+Signing body: Чукотский автономный округ
+Official publication page: http://publication.pravo.gov.ru/Document/View/8700202503110002
