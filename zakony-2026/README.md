@@ -1,6 +1,6 @@
 # Chukotka Autonomous Okrug: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 17 versions, from 2026-03-02 (latest in force: 2026-10-15) · <http://publication.pravo.gov.ru/documents/block/region87>
+Законы 2026 · 18 versions, from 2026-03-02 (latest in force: 2026-11-19) · <http://publication.pravo.gov.ru/documents/block/region87>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -85,4 +85,5 @@
 | Закон № 80-ОЗ | [80-oz.md](80-oz.md) | 1 | 2026-10-15 |
 | Закон № 81-ОЗ | [81-oz.md](81-oz.md) | 1 | 2026-10-15 |
 | Закон № 82-ОЗ | [82-oz.md](82-oz.md) | 1 | 2026-10-15 |
+| Закон № 83-ОЗ | [83-oz.md](83-oz.md) | 1 | 2026-11-19 |
 | Закон № 9-ОЗ | [9-oz.md](9-oz.md) | 1 | 2026-03-30 |
