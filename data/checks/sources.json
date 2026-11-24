@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-chukotka",
+   "kind": "legislation",
+   "name": {
+    "en": "Chukotka Autonomous Okrug: Official Internet Portal of Legal Information (region87)",
+    "ru": "Chukotka Autonomous Okrug: Официальный интернет-портал правовой информации (region87)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region87",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/chukotka/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-chukotka-law",
+   "group": "pravo",
+   "tz": "Asia/Anadyr"
+  }
+ ]
+}
