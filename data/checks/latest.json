@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:33:42Z",
+ "generated": "2026-11-25T06:58:37Z",
  "latest": {
   "pravo-chukotka|russia/chukotka/acts": {
    "attempt": 1,
@@ -13,60 +13,42 @@
    },
    "census": {
     "checked": 1078,
-    "current": 1077,
+    "current": 1078,
     "gone": 0,
-    "held": 1077,
-    "newest_in_repo": "2026-10-15",
-    "pending": 1,
-    "repo": 1077,
+    "held": 1078,
+    "newest_in_repo": "2026-11-19",
+    "pending": 0,
+    "repo": 1078,
     "source_in_scope": 1078
    },
-   "check_id": "ru-pravo-chukotka-20261124T132515Z",
-   "commits": {
-    "count": 2,
-    "from": "45071c8ade24f58118694f44e0c423bb13e15999",
-    "to": "635e932e04b00717819b918360d49655103d3b38"
-   },
+   "check_id": "ru-pravo-chukotka-20261125T052157Z",
+   "commits": null,
    "corpus": "russia/chukotka/acts",
    "error": null,
-   "finished": "2026-11-24T13:33:42Z",
+   "finished": "2026-11-25T05:22:30Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region87: 1078 law-type documents listed (every page read); 1077 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region87: 1078 law-type documents listed (every page read); 1078 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "8700202611190001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 12,
+   "requests": 9,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "8700202611190001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1078 law-type documents in block region87; newest published 2026-11-19",
    "source": "pravo-chukotka",
-   "started": "2026-11-24T13:25:15Z",
+   "started": "2026-11-25T05:21:57Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
