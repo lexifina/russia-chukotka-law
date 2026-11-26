@@ -1,6 +1,6 @@
 # Chukotka Autonomous Okrug: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 18 versions, from 2026-03-02 (latest in force: 2026-11-19) · <http://publication.pravo.gov.ru/documents/block/region87>
+Законы 2026 · 19 versions, from 2026-03-02 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region87>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -86,4 +86,12 @@
 | Закон № 81-ОЗ | [81-oz.md](81-oz.md) | 1 | 2026-10-15 |
 | Закон № 82-ОЗ | [82-oz.md](82-oz.md) | 1 | 2026-10-15 |
 | Закон № 83-ОЗ | [83-oz.md](83-oz.md) | 1 | 2026-11-19 |
+| Закон № 84-ОЗ | [84-oz.md](84-oz.md) | 1 | 2026-11-25 |
+| Закон № 85-ОЗ | [85-oz.md](85-oz.md) | 1 | 2026-11-25 |
+| Закон № 86-ОЗ | [86-oz.md](86-oz.md) | 1 | 2026-11-25 |
+| Закон № 87-ОЗ | [87-oz.md](87-oz.md) | 1 | 2026-11-25 |
+| Закон № 88-ОЗ | [88-oz.md](88-oz.md) | 1 | 2026-11-25 |
+| Закон № 89-ОЗ | [89-oz.md](89-oz.md) | 1 | 2026-11-25 |
 | Закон № 9-ОЗ | [9-oz.md](9-oz.md) | 1 | 2026-03-30 |
+| Закон № 90-ОЗ | [90-oz.md](90-oz.md) | 1 | 2026-11-25 |
+| Закон № 91-ОЗ | [91-oz.md](91-oz.md) | 1 | 2026-11-25 |
