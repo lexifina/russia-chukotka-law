@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:15:32Z",
+ "generated": "2026-11-27T06:08:10Z",
  "latest": {
   "pravo-chukotka|russia/chukotka/acts": {
    "attempt": 1,
@@ -13,38 +13,25 @@
    },
    "census": {
     "checked": 1086,
-    "current": 1078,
+    "current": 1086,
     "gone": 0,
-    "held": 1078,
-    "newest_in_repo": "2026-11-19",
-    "pending": 8,
-    "repo": 1078,
+    "held": 1086,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1086,
     "source_in_scope": 1086
    },
-   "check_id": "ru-pravo-chukotka-20261126T052224Z",
-   "commits": {
-    "count": 2,
-    "from": "8b610a193cd43034d7a55663f7d0d49016ca3668",
-    "to": "7c8c4f674992330a29b92dbd27a0bf7968b300a7"
-   },
+   "check_id": "ru-pravo-chukotka-20261127T051843Z",
+   "commits": null,
    "corpus": "russia/chukotka/acts",
    "error": null,
-   "finished": "2026-11-26T05:23:08Z",
+   "finished": "2026-11-27T05:19:13Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region87: 1086 law-type documents listed (every page read); 1078 held here; 8 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region87: 1086 law-type documents listed (every page read); 1086 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "8700202611250001",
-     "8700202611250002",
-     "8700202611250003",
-     "8700202611250004",
-     "8700202611250005",
-     "8700202611250006",
-     "8700202611250007",
-     "8700202611250008"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -52,35 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "8700202611250001",
-     "8700202611250002",
-     "8700202611250003",
-     "8700202611250004",
-     "8700202611250005",
-     "8700202611250006",
-     "8700202611250007",
-     "8700202611250008"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1086 law-type documents in block region87; newest published 2026-11-25",
    "source": "pravo-chukotka",
-   "started": "2026-11-26T05:22:24Z",
+   "started": "2026-11-27T05:18:43Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
