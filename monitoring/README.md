@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Chukotka Autonomous Okrug only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:19 UTC, Chukotka Autonomous Okrug: Official Internet Portal of Legal Information (region87): 9 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 05:27 UTC, Chukotka Autonomous Okrug: Official Internet Portal of Legal Information (region87): 9 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Chukotka Autonomous Okrug: Official Internet Portal of Legal Information (region87)](http://publication.pravo.gov.ru/documents/block/region87) | `zakony-<year>/` | daily | 2026-11-27 05:19 UTC | no change | watched |
+| [Chukotka Autonomous Okrug: Official Internet Portal of Legal Information (region87)](http://publication.pravo.gov.ru/documents/block/region87) | `zakony-<year>/` | daily | 2026-11-28 05:27 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:27](checks/2026-11.md#ru-pravo-chukotka-20261128t052724z) | pravo-chukotka | 9 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-27 05:18](checks/2026-11.md#ru-pravo-chukotka-20261127t051843z) | pravo-chukotka | 9 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:22](checks/2026-11.md#ru-pravo-chukotka-20261126t052224z) | pravo-chukotka | 9 | 8 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/russia-chukotka-law/compare/8b610a193cd4...7c8c4f674992) |
 | [2026-11-25 05:21](checks/2026-11.md#ru-pravo-chukotka-20261125t052157z) | pravo-chukotka | 9 | 0 | 0 | 0 | 0 (0) | no change | — |

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:08:10Z",
+ "generated": "2026-11-28T06:22:31Z",
  "latest": {
   "pravo-chukotka|russia/chukotka/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1086,
     "source_in_scope": 1086
    },
-   "check_id": "ru-pravo-chukotka-20261127T051843Z",
+   "check_id": "ru-pravo-chukotka-20261128T052724Z",
    "commits": null,
    "corpus": "russia/chukotka/acts",
    "error": null,
-   "finished": "2026-11-27T05:19:13Z",
+   "finished": "2026-11-28T05:27:56Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region87: 1086 law-type documents listed (every page read); 1086 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1086 law-type documents in block region87; newest published 2026-11-25",
    "source": "pravo-chukotka",
-   "started": "2026-11-27T05:18:43Z",
+   "started": "2026-11-28T05:27:24Z",
    "unexplained": 0,
    "update": {
     "parts": []
